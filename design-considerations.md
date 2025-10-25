@@ -1,8 +1,3 @@
----
-title: Design Considerations
----
-
-
 # Design Considerations
 
 

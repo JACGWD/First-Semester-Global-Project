@@ -1,8 +1,3 @@
----
-title: First Semester Global Project
----
-
-
 # First Semester Global Project
 
 

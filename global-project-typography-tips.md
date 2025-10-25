@@ -1,8 +1,3 @@
----
-title: Global Project Typography.md
----
-
-
 # Global Project Typography
 
 

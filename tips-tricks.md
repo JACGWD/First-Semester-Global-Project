@@ -1,8 +1,3 @@
----
-title: Global Project Tips & Tricks
----
-
-
 # Global Project Tips & Tricks {#global-project-tips--tricks}
 
 

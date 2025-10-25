@@ -1,8 +1,3 @@
----
-title: Pop Up Navigation Menu How To
----
-
-
 # Pop Up Navigation Menu How To
 
 

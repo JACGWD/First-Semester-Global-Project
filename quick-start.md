@@ -1,8 +1,3 @@
----
-title: Global Project Quick Start Guide for Web Design
----
-
-:
 # Global Project Quick Start Guide for Web Design
 
 
