@@ -13,14 +13,6 @@
 
 
 
-## Project Objective
-
-Build a companion web site to the print materials produced in the Page
-Layout class. Use the same branding (color palette, type of imagery,
-fonts, overall aesthetics) as the print project.
-
-
-
 ## HTML Overview
 
 1.  Use the [improved Emmet shortcut (in Tips & Tricks on
