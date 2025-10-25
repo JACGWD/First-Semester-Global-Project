@@ -15,7 +15,7 @@
 
 -   Valid HTML on each page
 
-    -   Validate often
+    -   [Validate often](how-to-validate.md)
     -   Standard block elements
         -   header
         -   nav
