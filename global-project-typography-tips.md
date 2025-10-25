@@ -3,7 +3,8 @@
 
 ### Links
 
--   [Home](./index.md)
+-   [Start Here](./index.md)
+-   [Evaluation Criteria](./evaluation-criteria.md)
 -   [Quick Start](./quick-start.md)
 -   [Design considerations](./design-considerations.md)
 -   [Tips & Tricks](./tips-tricks.md)

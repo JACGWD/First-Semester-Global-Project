@@ -4,7 +4,8 @@ This repository is meant as a work-in-progress guide for first semester John Abb
 
 Please return to this site on a regular basis as it will be enhanced as needed.
 
--   [Home](./index.md)
+-   [Start Here](./index.md)
+-   [Evaluation Criteria](./evaluation-criteria.md)
 -   [Quick Start](./quick-start.md)
 -   [Design considerations](./design-considerations.md)
 -   [Tips & Tricks](./tips-tricks.md)

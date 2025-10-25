@@ -1,25 +1,6 @@
-# First Semester Global Project
+# Technical Requirements & Evaluation Criteria 
 
-
-### Links
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
-
-
-
-## Web site component
-
-Build a companion web site to the print materials produced in the Page
-Layout class. Use the same branding (color palette, type of imagery,
-fonts, overall aesthetics) as the print project.
-
-### Technical Requirements
+## 1.1 Technical Requirements 
 
 -   Mobile first design
 
@@ -64,30 +45,24 @@ fonts, overall aesthetics) as the print project.
 
 -   Google (or Adobe) font for headers (h1-h6) and another for body text
 
+## 1.2 Evaluation Criteria 
 
-
-### Bonus
-
--   Desktop design (60rem media query)
--   Wrapper div
--   Use display: flex to place elements side-by-side
-
-
-
-## Evaluation Criteria
-
-### Technical Requirements 60%
+### Technical Requirements 
 
 1.  All HTML pages must be valid
 2.  CSS stylesheet must be valid
 3.  No lateral scroll on mobile
-4.  Images are resized for mobile: between 640px-960px width max
-5.  Google font family is required for headers and body text
+4.  Images are resized
+5.  Custom font family is required
 
-### Artistic Requirements 40%
+### Artistic Requirements
 
 1.  Margin, spacing and negative space
 2.  Alignment
 3.  Use of background images
 
+## 2 Bonus (+10%) 
 
+-   Desktop design (60rem media query)
+-   Wrapper div
+-   Use display: flex to place elements side-by-side

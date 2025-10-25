@@ -3,7 +3,8 @@
 
 ### Links
 
--   [Home](./index.md)
+-   [Start Here](./index.md)
+-   [Evaluation Criteria](./evaluation-criteria.md)
 -   [Quick Start](./quick-start.md)
 -   [Design considerations](./design-considerations.md)
 -   [Tips & Tricks](./tips-tricks.md)
@@ -51,77 +52,8 @@ fonts, overall aesthetics) as the print project.
 
 
 
-## 1. Technical Requirements & Evaluation Criteria 
 
-### 1.1 Technical Requirements 
-
--   Mobile first design
-
-    -   Design at 320px
-    -   Desktop is only a bonus
-
--   Minimum 5 page web site
-
-    -   Home
-    -   Contact
-    -   3 others according to subject
-
--   Valid HTML on each page
-
-    -   Validate often
-    -   Standard block elements
-        -   header
-        -   nav
-        -   main (main content)
-        -   aside (secondary content)
-        -   footer
-
--   Elements stacked top-to-bottom
-
-    -   Use **margins** to space them apart
-
--   Navigation bar with custom SVG icons (with text links underneath)
-
--   Minimum 2 photos per page
-
-    -   img tag
-    -   alt text
-    -   resized pixel dimensions
-    -   saved as optimized jpeg
-    -   transparent images saved as optimized png-24
-
--   Valid CSS in an external stylesheet
-
-    -   Validate often
-    -   Minimum 2 background images
-    -   Use rem/em/%, avoid px
-
--   Google (or Adobe) font for headers (h1-h6) and another for body text
-
-### 1.2 Evaluation Criteria 
-
-#### Technical Requirements 
-
-1.  All HTML pages must be valid
-2.  CSS stylesheet must be valid
-3.  No lateral scroll on mobile
-4.  Images are resized
-5.  Custom font family is required
-
-### Artistic Requirements
-
-1.  Margin, spacing and negative space
-2.  Alignment
-
-### 1.3 Bonus (+10%) 
-
--   Desktop design (60rem media query)
--   Wrapper div
--   Use display: flex to place elements side-by-side
-
-
-
-## 2. How to Start 
+## 1. How to Start 
 
 ### Basics
 
@@ -190,7 +122,7 @@ fonts, overall aesthetics) as the print project.
 
 
 
-## 3. HTML: Use the Emmet Shortcuts Provided 
+## 2. HTML: Use the Emmet Shortcuts Provided 
 
 -   Each page uses the same HTML skeleton.
 -   Use the Emmet abbreviation below to first create index.md.
@@ -224,7 +156,7 @@ Form](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAMpCAYAAABczP0LAANiZ0lE
 
 
 
-## 4. CSS DESIGN STEPS
+## 3. CSS DESIGN STEPS
 
 1.  Use margins to space elements apart from each other vertically (most
     important on mobile! use margin top and bottom).
@@ -264,9 +196,9 @@ attachment.
 
 
 
-## 5. Reference Material 
+## 4. Reference Material 
 
-### 5.1. Refer to your InDesign document 
+### 4.1. Refer to your InDesign document 
 
 1.  Each page you created in InDesign is a an HTML page.
 2.  The first page (right-hand side of the first two-page spread) is
@@ -274,14 +206,14 @@ attachment.
 3.  Each web page has the same images and text as what you have for
     print.
 
-### 5.2 Refer to the previous exercises 
+### 4.2 Refer to the previous exercises 
 
 1.  Build the global project web site using the techniques seen during
     the semester.
 2.  Go back to your old site to see what and how you did things.
 3.  Copy and adapt code from the old exercises.
 
-### 5.3 Refer to resources on the internet 
+### 4.3 Refer to resources on the internet 
 
 1.  Refer to sites that talk about web design/CSS
     ([csstricks.com](https://www.csstricks.com),
@@ -293,7 +225,7 @@ attachment.
 
 
 
-## 6. Colors and Fonts 
+## 5. Colors and Fonts 
 -   Use the same colors and fonts as what you are using in InDesign.
 -   Make sure your CMYK print colors are converted to RGB colors for web
     use (see [convert the colors to RGB
@@ -307,7 +239,7 @@ attachment.
 
 
 
-## 7. Validate your HTML and CSS often 
+## 6. Validate your HTML and CSS often 
 
 -   Make sure you have the **W3C Web Validator** VS Code extension
     installed.
@@ -318,7 +250,8 @@ attachment.
 
 ### Links 
 
--   [Home](./index.md)
+-   [Start Here](./index.md)
+-   [Evaluation Criteria](./evaluation-criteria.md)
 -   [Quick Start](./quick-start.md)
 -   [Design considerations](./design-considerations.md)
 -   [Tips & Tricks](./tips-tricks.md)
