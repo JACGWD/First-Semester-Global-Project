@@ -39,7 +39,7 @@
 
 -   Valid CSS in an external stylesheet
 
-    -   Validate often
+    -   [Validate often](how-to-validate.md)
     -   Minimum 2 background images
     -   Use rem/em/%, avoid px
 
@@ -49,8 +49,8 @@
 
 ### Technical Requirements (60%)
 
-1.  All HTML pages must be valid
-2.  CSS stylesheet must be valid
+1.  [All HTML pages must be valid](how-to-validate.md)
+2.  [CSS stylesheet must be valid](how-to-validate.md)
 3.  No lateral scroll on mobile
 4.  Images are resized
 5.  Custom font family is required
