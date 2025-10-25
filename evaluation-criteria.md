@@ -47,7 +47,7 @@
 
 ## 1.2 Evaluation Criteria 
 
-### Technical Requirements 
+### Technical Requirements (60%)
 
 1.  All HTML pages must be valid
 2.  CSS stylesheet must be valid
@@ -55,7 +55,7 @@
 4.  Images are resized
 5.  Custom font family is required
 
-### Artistic Requirements
+### Artistic Requirements (40%)
 
 1.  Margin, spacing and negative space
 2.  Alignment
