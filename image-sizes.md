@@ -1,4 +1,4 @@
-# How to Size Image for Mobile
+# How to Resize an Image for Mobile
 
 ![Steve Jobs and Retina Display](./img/retina-display.jpg)
 
