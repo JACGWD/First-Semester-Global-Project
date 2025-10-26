@@ -33,7 +33,7 @@
 
     -   img tag
     -   alt text
-    -   resized pixel dimensions
+    -   [resized pixel dimensions](./image-sizes.md)
     -   saved as optimized jpeg
     -   transparent images saved as optimized png-24
 
