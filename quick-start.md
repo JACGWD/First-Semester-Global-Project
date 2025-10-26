@@ -124,8 +124,8 @@ icons will be used small. Avoid working in Illustrator at a scale over
 -   Use your own photos, properly processed in Lightroom.
 -   If you need a photo that you cannot take yourself, use a free &
     legal image provider such as [Unsplash](https://unsplash.com)
--   Photographs should be saved as JPEG files, with appropriate image
-    compression settings.
+-   [Photographs should be saved as JPEG files, with appropriate image
+    compression settings](./image-sizes.md).
 -   Graphics (simple/geometric images with few colors should be saved as
     PNG or GIF). Graphics are often created in Illustrator.
 -   Images taken from Unsplash can (and probably should) be
