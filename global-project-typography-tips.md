@@ -16,7 +16,7 @@
 ## 1. CSS Reset 
 
 Please make sure to use the [CSS Reset from the JAC
-GitHub](https://raw.githubusercontent.com/JACGWD/CSS-Reset-Selector/refs/heads/main/reset/simple-css-reset-v2.2.css)
+GitHub](https://raw.githubusercontent.com/JACGWD/CSS-Reset-Selector/refs/heads/main/reset/simple-css-reset-v2.4.css)
 repository.
 
 The CSS Reset must be placed in the \<head\> **before** the link to the
