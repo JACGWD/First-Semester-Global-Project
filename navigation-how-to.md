@@ -14,9 +14,18 @@
 
 ## HTML
 
--   Add the following button code to your HTML.
+-   Starting with the following button code in your HTML.
 
--   Add it as the **first line at the top of the \<header\>** tag.
+        <body>
+            <header></header>
+            <h1></h1>
+            <main></main>
+            <aside></aside>
+            <footer></footer>
+        </body>  
+
+
+-   Add this as the **first line at the top before the \<header\>** tag.
 
          <button class="hide-text" id="menu-button">menu</button>
 
@@ -24,6 +33,43 @@
     menu**:
 
           <ul class="main navigation" id="menu">
+
+- Add the following script links to the bottom of the HTML, before the closing \</body> tag. These are the files that will power the appearance/disappearance of the menu when you tap the hamburger icon:
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+
+        <script src="js/combined-scripts.js"></script>
+
+- Finalized Code
+
+        <body>
+        <nav class="primary-navigation">
+        <button class="hide-text">Menu</button>
+
+        <ul class="main navigation" id="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Page 1</a></li>
+            <li><a href="#">Page 2</a></li>
+            <li><a href="#">Page 3</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+        </nav>
+        
+        <header></header>
+        <h1></h1>
+        <main></main>
+        <aside></aside>
+        <footer></footer>
+
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        crossorigin="anonymous"></script>
+
+        <script src="js/combined-scripts.js"></script>
+        </body>          
 
 ## CSS
 
