@@ -112,5 +112,5 @@ for some great navigation style ideas.
 
 ## Visual design rules you can safely follow every time
 
-Once you have built your pages and validated their code, then done a first pass of styling the pages, read [[this web page](https://anthonyhobday.com/sideprojects/saferules/)](https://anthonyhobday.com/sideprojects/saferules/) to see how you can add some extra visual finesse to your pages.
+Once you have built your pages and validated their code, then done a first pass of styling the pages, read [(https://anthonyhobday.com/sideprojects/saferules/)](https://anthonyhobday.com/sideprojects/saferules/) to see how you can add some extra visual finesse to your pages.
 
