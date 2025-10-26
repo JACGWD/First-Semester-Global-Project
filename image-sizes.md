@@ -12,3 +12,33 @@
 - Tablet screen sizes start at 768px wide (iPad).
 - Smartphone sizes therefore are in between 320px and 768px.
 - Images for smartphone use therefore need to be between 640px minimum and 1536px maximum.
+
+## Resizing in Photoshop
+
+1. Open the original master (full size/original quality) image in Photoshop
+2. Go File > Save for Web
+3. Change the settings, comparing the left (original) image and the right (optimized version) image, until you get the smallest file size while still having the best visual image quality.
+
+![](./img/save-for-web.png)
+
+### Image File Formats
+
+- GIF and PNG-8: Flat color graphics
+  - Few colors
+  - Limited to a maximum of 256 colors
+  - Artwork often created in Illustrator
+  - Flat colors, no shading or gradients
+  - Not photographs
+- PNG-24: High quality transparency only
+  - Saves excessively large files because it supports the same amount of transparency as Photoshop does
+  - Does not compress images very well
+  - Avoid at all costs unless it's the only option
+  - Better to fake the illusion of transparency in Photoshop and save as PNG-8 or JPEG
+- JPEG
+  - Only for photographs
+  - Compresses by losing information, never save multiple times in JPEG format (always use a master PSD or TIFF)
+  - Supports millions of colors
+
+### Color Space
+
+Images to be saved for use on the World Wide Web must be saved as **sRGB** (Internet Color/Not Color Managed)
