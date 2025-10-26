@@ -10,7 +10,7 @@
 -   Minimum 5 page web site
 
     -   Home
-    -   Contact
+    -   [Contact](./form.md)
     -   3 others according to subject
 
 -   Valid HTML on each page
@@ -27,7 +27,7 @@
 
     -   Use **margins** to space them apart
 
--   Navigation bar with custom SVG icons (with text links underneath)
+-   [Navigation bar with custom SVG icons](./navigation-how-to.md) (with text links underneath)
 
 -   Minimum 2 photos per page
 
