@@ -27,7 +27,15 @@ sketch out the site plan. Specifically, do this:
 -   Plan what kind of images go on the different pages.
 -   Use your InDesign document for reference.
 
+### List Subtopics per Page
 
+In each square of the sitemap, list a few subtopics in bullet form. For example:
+
+- music.html
+    - jazz
+    - rock
+    - pop
+    - hip hip
 
 ## 2. Sketch Your Design Ideas
 
