@@ -10,6 +10,7 @@ This repository is meant as a work-in-progress guide for first semester John Abb
 4. [Duplicate HTML files according to the site map](create-html.md)
 5. Copy the texts from your Word document into the \<main> tag of the appropriate pages.
 6. On index.html, you only need to have a preview of what each section will display.
+7. Mark up the texts with [section, h2, p, and h3 tags with classes](./classes-and-ids.md).
 
 Please return to this site on a regular basis as it will be enhanced as needed.
 
