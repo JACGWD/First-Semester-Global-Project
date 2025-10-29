@@ -125,8 +125,8 @@ icons will be used small. Avoid working in Illustrator at a scale over
 
 -   Fill in the two navigation lists.
 
+- Markup your text with [HTML tags, classes and IDs](classes-and-ids.md)
 
-:
 ## 6. Use Photography to Make the Site Look Professional 
 
 -   Use your own photos, properly processed in Lightroom.
