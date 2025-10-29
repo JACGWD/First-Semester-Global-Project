@@ -7,23 +7,30 @@
 
 In index.html, find this section of code:
 
-        <ul id="menu">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Page 1</a></li>
-            <li><a href="#">Page 2</a></li>
-        </ul>
+        <nav class="primary-navigation">
+            <button class="hide-text">Menu</button>
+
+            <ul id="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+            </ul>
+        </nav>
 
 Duplicate the last two lines, and modify like this. Please replace the "subtopic-X.html" and "name of subtopic" with the proper names from your site map:
 
 ### Customized Nav Code
 
-        <ul id="menu">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="subtopic-1.html">Name of Subtopic 1</a></li>
-            <li><a href="subtopic-2.html">Name of Subtopic 2</a></li>
-            <li><a href="subtopic-3.html">Name of Subtopic 3</a></li>
-            <li><a href="contact.html">Contact</a></li>
-        </ul>
+            <nav class="primary-navigation">
+                <button class="hide-text">Menu</button>
+                <ul id="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="subtopic-1.html">Name of Subtopic 1</a></li>
+                    <li><a href="subtopic-2.html">Name of Subtopic 2</a></li>
+                    <li><a href="subtopic-3.html">Name of Subtopic 3</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
 
 ### Duplicate the Customized Nav Code for use in the Footer
 
