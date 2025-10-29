@@ -1,12 +1,12 @@
 # Classes and IDs
 
-Classes and IDs are ways to name/target a specific part of a web page. CSS can use either ID or class in exactly the same way, it makes no difference how you give a name to an element the same style rules will apply.
+Classes and IDs are ways to name/target a specific part of a web page. They are particularly useful in differentiating between instances of the same HTML tag. For example: targeting one list item and not the other. CSS can use either ID or class in exactly the same way, it makes no difference how you give a name to an element the same style rules will apply.
 
         <ul>
             <li class="red">Billy Poppins</li>
             <li id="red">François Lesmatte</li>
             <li class="red">Jonny Smith</li>
-            <li class="red">Mary Poppins</li>
+            <li class="blue">Mary Poppins</li>
         </ul>
 
         .red {color: red;}
