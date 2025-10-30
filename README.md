@@ -23,7 +23,7 @@ See [evaluation criteria](evaluation-criteria.md)
 
 
 
-### Archived Pages from Old Version
+### (Deprecated: Archived Pages from Old Version)
 
 -   [Start Here](./index.md)
 -   [Evaluation Criteria](./evaluation-criteria.md)
