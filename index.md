@@ -17,6 +17,7 @@ See [evaluation criteria](evaluation-criteria.md)
 5. Copy the texts from your Word document into the \<main> tag of the appropriate pages and markup the texts with [section, h2, p, and h3 tags](adding-html-tags.md)
 6. On index.html, you only need to have a [preview of what each section will display](./html-preview.md).
 7. Mark up your texts with [classes](./classes-and-ids.md)
+8. [Simplify, prepare and optimize your SVG icons](creating-svg-icons.md)
 
 
 
