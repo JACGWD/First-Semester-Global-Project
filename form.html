@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Form</title>
+</head>
+<body>
+
+   <form action="#">
+        <fieldset><!-- form box 1-->
+            <legend>Tell Us About Yourself</legend><!-- title tag for form box 1-->
+
+            <label for="first-name">First Name</label>
+            <input type="text" name="first-name" id="first-name"><!-- text box 1-->
+            
+            <label for="last-name">Last Name</label>
+            <input type="text" name="last-name" id="last-name"><!-- text box 2-->
+            
+            <label for="telephone">Telephone Number</label>
+            <input type="tel" name="telephone" id="telephone"><!-- text box 3-->
+
+            <label for="client-needs">How Can We Help You?</label>
+            <select name="client-needs" id="client-needs"><!-- Drop-Down Menu -->
+
+                <option value="quote">Quote for Purchase</option> <!-- Contents of the drop-down menu's list -->
+                <option value="sales">Sales Question</option>
+                <option value="support">Support Request</option>
+                <option value="returns">Product Return</option>
+                <option value="other">Other</option>
+
+            </select>
+        </fieldset>
+
+        <fieldset><!-- form box 2-->
+            <legend>Please Leave Us a Comment</legend>
+            <label for="comment">Comment</label>
+            <textarea name="comment" id="comment"></textarea><!-- message input box-->
+        </fieldset>
+
+        <div class="align-right"><!-- box to group buttons together so we can align them -->
+            <input type="reset" value="reset">
+            <input type="submit" value="button">
+    </div>
+    </form> 
+
+</body>
+</html>
+    

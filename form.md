@@ -4,6 +4,12 @@
 
     form>fieldset>legend+(label+input:text)*2+label+input:tel^fieldset>legend+label+textarea^div.align-right>input:reset+input:submit
 
+
+The illustration below shows the form code properly completed with all values:
+
+![Commented HTML form code](./img/commented-form.png)
+
+
 Please feel free to customize the fields of the form according to the requirements of your
 project\'s type of business or activity. See the [W3Schools page on
 forms](https://www.w3schools.com/tags/tag_form.asp) and on [form
