@@ -2,74 +2,74 @@
 
 These home page designs were produced by students in the Fall 2024 semester.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem;">
+
         
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/alsamaneh.png" alt="first semester web design example">
-    <figcaption>/Taghreed Yousef Abdelhadi Alsamaneh</figcaption>
+    <p>/Taghreed Yousef Abdelhadi Alsamaneh</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/chabot.png" alt="first semester web design example">
-    <figcaption>Angelina Chabot</figcaption>
+    <p>Angelina Chabot</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/dibitonto.png" alt="first semester web design example">
-    <figcaption>Michela Di-Bitonto</figcaption>
+    <p>Michela Di-Bitonto</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/filteau.png" alt="first semester web design example">
-    <figcaption>Kellya Filteau</figcaption>
+    <p>Kellya Filteau</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/guerrero-escobar.png" alt="first semester web design example">
-    <figcaption>/Vivian Guerrero-Escobar</figcaption>
+    <p>/Vivian Guerrero-Escobar</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/jacob-bentley.png" alt="first semester web design example">
-    <figcaption>Jacob Bentley</figcaption>
+    <p>Jacob Bentley</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/jonas-bentley.png" alt="first semester web design example">
-    <figcaption>Jonas Bentley</figcaption>
+    <p>Jonas Bentley</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/khamsi-leon.png" alt="first semester web design example">
-    <figcaption>Krystie Khamsi-Leon</figcaption>
+    <p>Krystie Khamsi-Leon</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/leca.png" alt="first semester web design example">
-    <figcaption>Ecaterina Leca</figcaption>
+    <p>Ecaterina Leca</p>
 </img>
-</figure>
+</div>
 
 
-<figure style="border: 1px solid #444; margin: 1rem;">
+<div style="border: 1px solid #444; margin: 1rem;">
 <img src="./img/student-home-pages/leibovici.png" alt="first semester web design example">
-    <figcaption>Erica Leibovici</figcaption>
+    <p>Erica Leibovici</p>
 </img>
-</figure>
+</div>
 </div>
