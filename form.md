@@ -12,11 +12,11 @@ more info.
 
 The contact form **could** look something like this:
 
-![Contact form](./img/contact-form.png)
+![Contact form](img/contact-form.png)
 
 0r something like this...
 
-![More designed contact form](./img/contact-form-2.png)
+![More designed contact form](img/contact-form-2.png)
 
 
 ### CSS Selectors used for the Form Elements

@@ -20,6 +20,7 @@ See [evaluation criteria](evaluation-criteria.md)
 6. On index.html, you only need to have a [preview of what each section will display](./html-preview.md).
 7. Mark up your texts with [classes](./classes-and-ids.md)
 8. [Simplify, prepare and optimize your SVG icons](creating-svg-icons.md)
+9. Use [Emmet to build the form](./form.md) (that you can later customize)
 
 
 
