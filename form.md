@@ -2,7 +2,7 @@
 
 **Emmet Code:**
 
-    form>fieldset>legend+(label+input:text)*2+label+input:tel^fieldset>legend+label+textarea^div.align-right>input:reset+input:submit
+    form>fieldset>legend+(label+input:text)*2+label+input:tel^select>option*4^fieldset>legend+label+textarea^div.align-right>input:reset+input:submit
 
 
 The illustration below shows the form code properly completed with all values:
