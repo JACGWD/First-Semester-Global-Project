@@ -13,8 +13,12 @@ The proper way to add pictures to your site, apart from the use of the img tag, 
 ## HTML with Links
 
         <figure>
-            <img src="img/image.jpg" />
-            <figcaption>Photo by <a href="#">John Smith</a> on <a href="#">Unsplash</a></figcaption>
+            <a href="#">
+                <img src="img/image.jpg" />
+            </a>
+            <figcaption>
+                Photo by <a href="#">John Smith</a> on <a href="#">Unsplash</a>
+            </figcaption>
         </figure>
 
 ## Image Sizing
