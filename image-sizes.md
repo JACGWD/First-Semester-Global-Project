@@ -13,6 +13,10 @@
 - Smartphone sizes therefore are in between 320px and 768px.
 - Images for smartphone use therefore need to be between 640px minimum and 1536px maximum.
 
+<blockquote>  
+TLDR: Export your images at 1536px on the longest side.
+</blockquote>  
+
 ## Resizing in Photoshop
 
 1. Open the original master (full size/original quality) image in Photoshop

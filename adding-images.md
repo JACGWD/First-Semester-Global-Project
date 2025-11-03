@@ -1,6 +1,7 @@
 # Adding Images to Your Site
 
-The proper way to add pictures to your site, apart from the use of the img tag, is to use the figure tag with it's figcaption included. This allows the picture to be properly credited.
+The proper way to add an image to a web page is to combine the image with a caption, often used for adding a byline.
+
 
 ## Simple HTML
 
@@ -23,17 +24,7 @@ The proper way to add pictures to your site, apart from the use of the img tag, 
 
 ## Image Sizing
 
--   Determine the **maximum size** you would want the image to appear on
-    a desktop layout.
--   For example:
-    -   One image in a single column layout might be 1000px wide.
-    -   Two images side-by-side in a column of the same width might be
-        450px wide each.
-    -   Three images side-by-side in a column of the same width might be
-        300px wide each.
--   Multiply the width value (ex: 450px) **by two** to get the final
-    image size to export from Photoshop or Lightroom (ex: 900px). This
-    is the higher resolution needed for Retina displays.
+Read the [Image Sizes page for information on resizing the image properly](./image-sizes.md) for web design use.
 
 ## Credit the photographer
 
