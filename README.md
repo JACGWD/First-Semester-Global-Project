@@ -20,10 +20,11 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 6. On index.html, you only need to have a [preview of what each section will display](./html-preview.md).
 7. Mark up your texts with [classes](./classes-and-ids.md)
 8. [Simplify, prepare and optimize your SVG icons](creating-svg-icons.md)
-9. Use [Emmet to build the form](./form.md) (that you must complete and later customize according to your needs)
-10. [End of term calendar](./calendar.md)
-11. [Adding images with figure and figcaption](adding-images.md)
-12. Check your [image sizes and optimization](image-sizes.md)
+9. [End of term calendar](./calendar.md)
+10. [Adding images with figure and figcaption](adding-images.md)
+11. Check your [image sizes and optimization](image-sizes.md)
+12. Use [Emmet to build the form](./form.md) (that you must complete and later customize according to your needs)
+
 
 
 
