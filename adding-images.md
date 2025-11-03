@@ -6,10 +6,7 @@ The proper way to add pictures to your site, apart from the use of the img tag, 
 
         <figure>
         <img src="img/pupaza.jpg" />
-        <figcaption>Photo by <a
-        href="https://unsplash.com/@davfts?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">David
-        Pupăză</a> on <a
-        href="https://unsplash.com/photos/black-flat-screen-computer-monitor-Q9-QEy1_jYI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></figcaption>
+        <figcaption>Photo by John Smith</figcaption>
         </figure>
 
 
