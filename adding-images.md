@@ -1,5 +1,7 @@
 # Adding Images to Your Site
 
+The proper way to add pictures to your site, apart from the use of the img tag, is to use the figure tag with it's figcaption included. This allows the picture to be properly credited.
+
 ## Simple HTML
 
         <figure>
