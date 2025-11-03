@@ -37,6 +37,8 @@ The contact form **could** look something like this:
 -   input\[type=\"submit\"\]
 -   input\[type=\"text\"\]
 -   input\[type=\"tel\"\]
+-   select
+-   option
 -   .button
 -   .button:hover
 -   .button:active
