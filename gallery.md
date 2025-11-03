@@ -17,7 +17,7 @@ These home page designs were produced by students in the Fall 2024 semester.
 
 </div>
 
-
+<!--
 <div>
 <img src="./img/student-home-pages/dibitonto.png" alt="first semester web design example">
     <p>Michela Di-Bitonto</p>
@@ -30,7 +30,7 @@ These home page designs were produced by students in the Fall 2024 semester.
     <p>Kellya Filteau</p>
 
 </div>
-
+-->
 
 <div>
 <img src="./img/student-home-pages/guerrero-escobar.png" alt="first semester web design example">
@@ -52,7 +52,7 @@ These home page designs were produced by students in the Fall 2024 semester.
 
 </div>
 
-
+<!--
 <div>
 <img src="./img/student-home-pages/khamsi-leon.png" alt="first semester web design example">
     <p>Krystie Khamsi-Leon</p>
@@ -72,4 +72,4 @@ These home page designs were produced by students in the Fall 2024 semester.
     <p>Erica Leibovici</p>
 
 </div>
-</div>
+-->
