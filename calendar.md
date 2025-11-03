@@ -2,7 +2,7 @@
 
 | Week                | Monday                                   | Wednesday                           |
 |---------------------|------------------------------------------|-------------------------------------|
-| Week of November 2  | Finish Inserting SVGs                    | Artistic Stand Up<br>Start Contact Form |
+| Week of November 2  | Finish Inserting SVGs<br>Adding images                    | Artistic Stand Up<br>Start Contact Form |
 | Week of November 9  | Contact Form continues                   | All texts should be entered<br>HTML Validation due         |
 | Week of November 16 | CSS For header                           | CSS For Navigation                  |
 | Week of November 23 | CSS For Navigation continues             | CSS Typography        |

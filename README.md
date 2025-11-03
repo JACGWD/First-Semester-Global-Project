@@ -22,6 +22,7 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 8. [Simplify, prepare and optimize your SVG icons](creating-svg-icons.md)
 9. Use [Emmet to build the form](./form.md) (that you must complete and later customize according to your needs)
 10. [End of term calendar](./calendar.md)
+11. [Adding images with figure and figcaption](adding-images.md)
 
 
 
