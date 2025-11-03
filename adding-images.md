@@ -6,7 +6,7 @@ The proper way to add an image to a web page is to combine the image with a capt
 ## Simple HTML
 
         <figure>
-            <img src="img/pupaza.jpg" />
+            <img src="img/image.jpg" />
             <figcaption>Photo by John Smith</figcaption>
         </figure>
 
