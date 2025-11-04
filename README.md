@@ -30,14 +30,4 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 #### CSS
 
 13. [Basic CSS for the contact form](contact-form-css.md)
-
-
-### (Deprecated: Archived Pages from Old Version)
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
+14. [Basic CSS for the navigation](./navigation-how-to.md)
