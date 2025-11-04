@@ -1,17 +1,4 @@
-# Global Project Typography
-
-
-### Links
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
-
-
+# Typography
 
 ## 1. CSS Reset 
 

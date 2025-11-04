@@ -1,18 +1,5 @@
 # Design Considerations
 
-
-### Links
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
-
-
-
 ![Man Magazine Cover](./img/magazine-cover.png)
 
 ## Web Home Page = Magazine Cover

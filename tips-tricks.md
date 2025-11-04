@@ -1,39 +1,25 @@
-# Global Project Tips & Tricks {#global-project-tips--tricks}
-
-
-### Links
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
-
+# Global Project Tips & Tricks
 
 
 ## HTML Overview
 
-1.  Use the [improved Emmet shortcut (in Tips & Tricks on
-    LEA)](tips-tricks.md#basic-html-template-improved) to generate
-    your html template.
+1.  Use the **improved template** from Omnivox.
 
-2.  Add all the links (css reset, css style, google font, main
+2.  Add all the links (google font, main
     navigation and footer navigation) to the template.
 
 3.  Top navigation has SVGs just like the ap-nav exercise. Remember to
     add text links (in a span tag) like: \<span\>home\</span\>.
 
 4.  Footer navigation **is the same links as the main navigation but
-    without the SVGs**.
+    without the SVGs** nor the span.
 
 5.  Once this template is complete, duplicate it several times. Rename
-    it to the names of the pages you need. Last one will be contact.md
+    it to the names of the pages you need. Use your site maap as a reference. Last one will be contact.html
 
 6.  Test your navigation and fix as necessary.
 
-7.  Copy the texts from InDesign. Page 1 in InDesign is index.md
+7.  Copy the texts from Word. Page 1 in InDesign is index.html
 
 8.  All page content goes into the \<main\> tag. Everything else
     (header, nav, footer, etc) is identical on every page (except the
@@ -237,17 +223,3 @@ attachment.
     installed.
 -   **Validate the CSS very often. Even minor mistakes can create big
     problems.**
-
-
-
-### Links 
-
--   [Start Here](./index.md)
--   [Evaluation Criteria](./evaluation-criteria.md)
--   [Quick Start](./quick-start.md)
--   [Design considerations](./design-considerations.md)
--   [Tips & Tricks](./tips-tricks.md)
--   [Typography Tips](./global-project-typography-tips.md)
--   [Navigation How To](./navigation-how-to.md)
-
-
