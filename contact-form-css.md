@@ -109,7 +109,7 @@ Add margin-right to the reset button to make the buttons clearly stand out.
             margin-right: 1rem;
         }    
 
-## Adding Creative Elements
+## 10. Adding Creative Elements
 
 Similar to what we did in the footer assignment, we can now add visual flair to our design by adding whitespace (margins and/or padding) to specific elements and **adding background images in that empty space**.
 
