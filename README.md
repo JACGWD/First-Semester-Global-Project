@@ -8,7 +8,7 @@ Build a companion web site to the print materials produced in the Page
 Layout class. Use the same branding (color palette, type of imagery,
 fonts, overall aesthetics) as the print project.
 
-See [evaluation criteria](evaluation-criteria.md) and [examples of previous designs](./gallery.md) as well as a [gallery of professionally designed sites for your inspiration](pro-sites-gallery.md).
+See [evaluation criteria](evaluation-criteria.md) and [examples of previous designs](./gallery.md) as well as a [gallery of professionally designed sites for your inspiration](pro-sites-gallery.md). You can also read the [Quick Start](./quick-start.md) for an overview of the design steps.
 
 ### New & Improved Instructions for Fall 2025
 
