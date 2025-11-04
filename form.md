@@ -27,7 +27,7 @@ The contact form **could** look something like this:
 ![More designed contact form](img/contact-form-2.png)
 
 
-### CSS Selectors used for the Form Elements
+## CSS Selectors used for the Form Elements
 
 -   form
 -   fieldset
@@ -44,3 +44,9 @@ The contact form **could** look something like this:
 -   .button
 -   .button:hover
 -   .button:active
+
+
+## Time to Decorate the Design
+
+Once [the form is built and validated](./how-to-validate.md), you can now [start adding CSS to do the page layout as well as decorate the design with background images](./contact-form-css.md).
+
