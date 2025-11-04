@@ -68,7 +68,7 @@ The way that [CSS handles conflicts is called "Specificity"](https://www.w3schoo
         }
 
 
-6. Make the Legend Easier to Read
+## 6. Make the Legend Easier to Read
 
 Add a little space to the left and right of the legend text.
 
@@ -76,7 +76,7 @@ Add a little space to the left and right of the legend text.
             padding: 0 0.5rem;
         }
 
-7. Add Extra Space below the Label
+## 7. Add Extra Space below the Label
 
 Note that the **label is an inline element** and we cannot give it margins until it becomes a block level element.
 
@@ -86,7 +86,7 @@ Note that the **label is an inline element** and we cannot give it margins until
         }      
 
 
-8. Align Buttons to the Right
+## 8. Align Buttons to the Right
 
 Flexbox is the perfect tool for managing page layout **on a single line**. Here we use it to send the content of the .align-right class to the end of the block level element.
 
@@ -101,7 +101,7 @@ Flexbox is the perfect tool for managing page layout **on a single line**. Here 
         }        
 
 
-9. Prevent the Two Buttons from Touching
+## 9. Prevent the Two Buttons from Touching
 
 Add margin-right to the reset button to make the buttons clearly stand out.
 
@@ -126,3 +126,6 @@ Then add your background image to that selector:
             background-size: 4rem;
             background-position: 90% 1rem;
         }
+
+
+![example of a decorated form](./img/decorated-form.png)
