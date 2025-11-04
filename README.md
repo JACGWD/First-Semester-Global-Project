@@ -12,6 +12,8 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 
 ### New & Improved Instructions for Fall 2025
 
+#### HTML
+
 1. [Draw a Site Map](sitemap.md)
 2. Download the "Enhanced template" from Omnivox (week 9)
 3. [Edit the navigation](edit-navigation.md)
@@ -25,7 +27,9 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 11. Check your [image sizes and optimization](image-sizes.md)
 12. Use [Emmet to build the form](./form.md) (that you must complete and later customize according to your needs)
 
+#### CSS
 
+13. [Basic CSS for the contact form](contact-form-css.md)
 
 
 ### (Deprecated: Archived Pages from Old Version)
