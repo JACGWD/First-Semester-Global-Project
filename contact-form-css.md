@@ -113,7 +113,7 @@ Add margin-right to the reset button to make the buttons clearly stand out.
 
 Similar to what we did in the footer assignment, we can now add visual flair to our design by adding whitespace (margins and/or padding) to specific elements and **adding background images in that empty space**.
 
-To Target a specific element when you have several of teh same type on the page (for eample a fieldset), give the one you want to target a class name.
+To target a specific element when you have several of the same type on the page (for example one of the three fieldsets), give the one you want to work on a class name.
 
         <fieldset class="comment-box">
 
