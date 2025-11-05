@@ -32,4 +32,5 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 13. [Basic CSS for the contact form](contact-form-css.md)
 14. [Basic CSS for the navigation](./navigation-how-to.md)
 15. Do your [typography](./typography.md)
-16. Read this overview of [design considerations](./design-considerations.md) which includes useful links and tips.
+16. [Format the home page cards](create-cards.md)
+17. Read this overview of [design considerations](./design-considerations.md) which includes useful links and tips.
