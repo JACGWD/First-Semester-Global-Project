@@ -26,6 +26,7 @@ See [evaluation criteria](evaluation-criteria.md) and [examples of previous desi
 10. [Adding images with figure and figcaption](adding-images.md)
 11. Check your [image sizes and optimization](image-sizes.md)
 12. Use [Emmet to build the form](./form.md) (that you must complete and later customize according to your needs)
+13. [HTML Checklist & Evaluation Criteria](./html-checklist-and-evaluation-criteria.md)
 
 #### CSS
 
