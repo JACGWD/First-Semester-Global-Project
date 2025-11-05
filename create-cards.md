@@ -68,3 +68,8 @@ See [this page for a reference on how to design a simple card effect](https://ww
             margin: 2rem auto 0 auto;
             border-radius: 12px;
         }
+
+
+## Example Rendering
+
+![Example of Cards](./img/cards-rendered.png)
