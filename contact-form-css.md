@@ -109,7 +109,16 @@ Add margin-right to the reset button to make the buttons clearly stand out.
             margin-right: 1rem;
         }    
 
-## 10. Adding Creative Elements
+
+## 10. Make the Comments Box more Square
+
+This is just to make the comments box not look like a regular rectangular text box. We use min-height so that the box can expand to larger sizes when the user types in a lot of text.
+
+       textarea {
+	  min-height: 100px;
+        }
+
+## 11. Adding Creative Elements
 
 Similar to what we did in the footer assignment, we can now add visual flair to our design by adding whitespace (margins and/or padding) to specific elements and **adding background images in that empty space**.
 
