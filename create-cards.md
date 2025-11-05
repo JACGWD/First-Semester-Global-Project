@@ -67,6 +67,7 @@ See [this page for a reference on how to design a simple card effect](https://ww
             font-weight: bold;
             margin: 2rem auto 0 auto;
             border-radius: 12px;
+            box-shadow: 0px 0px 4px #444;
         }
 
 
