@@ -21,8 +21,15 @@ These requirements do not prevent the page from being tested for validity.
 2. The SVGs do not have \<style> tags inside of them.
 3. Each page has an SVG **for each link** in the top navigation.
 4. Every image tag has an appropriate ALT text.
+5. The files are located **at the root level** of your global project folder (not in enhanced-site-template/default-site-template)
 
 ### HTML Validation
 
 - Each page must pass the HTML validation test.
 - Note that some SVG code may cause the validator to display errors. These can *usually* be ignored. When pasting SVGs, make sure to **not include the XML tag** from the top of the SVG file. Errors due to the XML tag being included will be penalized.
+
+## How to Submit
+
+- Please zip your global project folder.
+- Rename the zip file to your firstname-lastname-global.zip
+- Send me the file via MIO.
