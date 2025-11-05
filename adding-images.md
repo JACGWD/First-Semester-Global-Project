@@ -26,6 +26,14 @@ The proper way to add an image to a web page is to combine the image with a capt
 
 Read the [Image Sizes page for information on resizing the image properly](./image-sizes.md) for web design use.
 
+<blockquote>
+
+### TLDR;
+
+Save your images at **1536px on the longest side**.
+
+</blockquote>
+
 ## Credit the photographer
 
 For each photo, add a byline given credit to the photographer. When you
