@@ -40,6 +40,22 @@ See [this page for a reference on how to design a simple card effect](https://ww
             margin: 2rem auto;
             padding: 2rem 1rem 2rem 1rem;
             border-radius: 12px;
+
+            background-position: 50% -120%;
+            background-size: 300px;
+            background-repeat: no-repeat;
+        }
+
+        .dogs {
+            background-image: url(bgimg/red-square.svg);
+        }
+
+        .fish {
+            background-image: url(bgimg/green-square.svg);
+        }
+
+        .why {
+            background-image: url(bgimg/blue-square.svg);
         }
 
         .readmore {
