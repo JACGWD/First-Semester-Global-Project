@@ -70,7 +70,7 @@ actual stylesheet:
 
 ### Important
 
-Make sure that the font you want to use is named both in the \<link> tag (ex: "Parkinsans" on line 41) in the HTML (of every page) and in your CSS (ex: "Parkinsans" on line 57).
+Make sure that the font you want to use is named both in the \<link> tag (ex: "Parkinsans" on line 41) in the HTML (of every page) and in your CSS (ex: "Parkinsans" on line 57). (Click "Code" tab above to see line numbers.)
 
 </blockquote>
 
