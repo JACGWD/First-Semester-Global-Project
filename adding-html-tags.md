@@ -9,11 +9,11 @@ After importing the texts from Word to the HTML document, you must add HTML tags
             <button class="hide-text">Menu</button>
 
         <ul id="menu">
-            <li><a href="index.html"><svg></svg><span>Home</span></a></li>
-            <li><a href="subtopic-1.html"><svg></svg><span>Name of Subtopic 1</span></a></li>
-            <li><a href="subtopic-2.html"><svg></svg><span>Name of Subtopic 2</span></a></li>
-            <li><a href="subtopic-3.html"><svg></svg><span>Name of Subtopic 3</span></a></li>
-            <li><a href="contact.html"><svg></svg><span>Contact</span></a></li>
+            <li><a href="index.html"><!-- SVG code goes here --><span>Home</span></a></li>
+            <li><a href="subtopic-1.html"><!-- SVG code goes here --><span>Name of Subtopic 1</span></a></li>
+            <li><a href="subtopic-2.html"><!-- SVG code goes here --><span>Name of Subtopic 2</span></a></li>
+            <li><a href="subtopic-3.html"><!-- SVG code goes here --><span>Name of Subtopic 3</span></a></li>
+            <li><a href="contact.html"><!-- SVG code goes here --><span>Contact</span></a></li>
         </ul>
 
             </nav>

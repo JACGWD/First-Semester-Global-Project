@@ -14,6 +14,14 @@ Icons are made to be viewed quite small, so beware of *creating illustrations* r
 2. Avoid too much detail
 3. When saving as an SVG, **do not select "Style Elements"** This will create a CSS style tag inside the SVG code, and can lead to CSS conflicts when multiple icons are loaded on the same page.
 
+<blockquote>
+
+## Important!
+
+Before exporting your SVG, **remove any embedded images such as tracing layers**. Otherwise the SVG will be very big and contain enormous amount of code, which will make reading your pages difficult. 
+
+</blockquote>
+
 
 ![Export Settings for SVGs made in Illustrator](img/svg-export.png)
 

@@ -125,6 +125,7 @@ Similar to what we did in the footer assignment, we can now add visual flair to 
 To target a specific element when you have several of the same type on the page (for example one of the three fieldsets), give the one you want to work on a class name.
 
         <fieldset class="comment-box">
+        <!-- add this class to the fieldset that contains the comment box within the HTML of the contact.html page -->
 
 Then add your background image to that selector:
 

@@ -82,6 +82,16 @@ Similar to the footer exercise and the comment box in the contact form, add some
 
 ![Example of decorated menu](./img/decorated-menu.png)
 
+## 8. Move the Popped-Up Menu Below the Hamburger Icon
+
+By default, the menu overlaps the hamburger icon. We need to lower the menu to prevent this.
+
+        ul#menu.show-nav {
+            top: 1.5rem;
+        }
+
+
+
 
 ### BONUS: Hide button and display menu horizontally on desktop 
 
