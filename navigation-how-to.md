@@ -22,7 +22,6 @@ Add the following  properties to your CSS:
 
        ul#menu.show-nav {
             background-color: aliceblue;
-            top: 1.5rem;
             width: 100%;
             padding: 1rem;
         }
@@ -87,7 +86,7 @@ Similar to the footer exercise and the comment box in the contact form, add some
 By default, the menu overlaps the hamburger icon. We need to lower the menu to prevent this.
 
         ul#menu.show-nav {
-            top: 1.5rem;
+            top: 1.5rem; 
         }
 
 
