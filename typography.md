@@ -54,7 +54,7 @@ actual stylesheet:
               label,
               legend {
                   font-weight: bold;
-                  font-family: 'Bebas Neue', 'Helvetica Neue', Helvetica, Arial, serif;
+                  font-family: Parkinsans, 'Helvetica Neue', Helvetica, Arial, serif;
                   color: red;
               }
 
@@ -66,7 +66,13 @@ actual stylesheet:
                   color: black;   
               }
 
+<blockquote>
 
+### Important
+
+Make sure that the font you want to use is named both in the \<link> tag (ex: "Parkinsans" on line 41) in the HTML (of every page) and in your CSS (ex: "Parkinsans" on line 57). (Click "Code" tab above to see line numbers.)
+
+</blockquote>
 
 ## 3. Use a Typographic Scale to Set Font Sizes 
 
