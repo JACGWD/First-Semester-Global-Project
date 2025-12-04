@@ -36,6 +36,7 @@
     -   [resized pixel dimensions](./image-sizes.md)
     -   saved as optimized jpeg
     -   transparent images saved as optimized png-24
+    -   include infographic from Jan's class
 
 -   Valid CSS in an external stylesheet
 
