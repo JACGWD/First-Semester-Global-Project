@@ -9,8 +9,8 @@ repository.
 The CSS Reset must be placed in the \<head\> **before** the link to the
 actual stylesheet:
 
-        <link rel="stylesheet" href="theme/default/css/reset.css" media="all">
-        <link rel="stylesheet" href="theme/default/css/style.css" media="all">
+        <link rel="stylesheet" href="css/reset.css" media="all">
+        <link rel="stylesheet" href="css/style.css" media="all">
 
 
 
@@ -40,8 +40,8 @@ actual stylesheet:
               <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
               <link href="https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap" rel="stylesheet">
 
-              <link rel="stylesheet" href="theme/default/css/reset.css" media="all">
-              <link rel="stylesheet" href="theme/default/css/style.css" media="all">
+              <link rel="stylesheet" href="css/reset.css" media="all">
+              <link rel="stylesheet" href="css/style.css" media="all">
 
     ### Sample CSS Code
 
